@@ -153,7 +153,7 @@ const ResumeForm = () => {
 
             <div className="bg-white p-6 rounded-lg shadow-lg max-w-2xl w-full max-h-[80vh] overflow-auto">
 
-              <div className="flex justify-between items-center mb-4 bg-blue-400 rounded-md text-white">
+              <div className="flex justify-between items-center mb-4 text-white">
                 <h2 className="text-xl font-bold"> Resume Preview</h2>
                 <button
                   onClick={() => setShowModal(false)}
