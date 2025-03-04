@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# This is Project and Makes Resume
-
-## It Uses AI To Enhance Your Resume
-=======
 
 # AI-Powered Resume Builder
 
@@ -71,6 +66,5 @@ This project is open-source under the MIT License.
 
 ---
 💡 *Contributions, feedback, and feature suggestions are welcome!* 🚀
->>>>>>> develop
 
 ## It Creates resume of multiple templates
