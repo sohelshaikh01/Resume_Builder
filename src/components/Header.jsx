@@ -1,12 +1,13 @@
-import React from 'react';
+
 import { Link } from 'react-router-dom';
+import Logo from './Logo';
 
 const Header = () => {
   return (
     <div className="bg-violet-600 text-white text-xl h-16 fixed w-full shadow-md z-50 flex items-center justify-between px-6 max-w-7xl mx-auto">
       
       {/* Logo */}
-      <span className="text-2xl font-bold">Logo</span>
+      <span className="text-2xl font-bold"> <Logo className={`w-16 h-16 text-white flex items-center justify-center`}/> </span>
 
       {/* Navigation Links */}
       <nav className="flex gap-6">

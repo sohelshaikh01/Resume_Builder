@@ -11,7 +11,7 @@ const Footer = () => {
         {/* Logo & Social Links */}
         <div className="flex flex-col items-start md:items-center gap-4">
 
-          <Logo width="120px" />
+          <Logo className="text-white w-12 h-12" />
           <div className="flex gap-4 mt-3">
             <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">
               <FaGithub />

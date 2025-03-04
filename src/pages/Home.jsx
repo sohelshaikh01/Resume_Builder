@@ -5,9 +5,11 @@ import { useState } from 'react';
 import "@fontsource/poppins"; // Defaults to weight 400
 import "@fontsource/poppins/500.css"; // Specific weight
 
-import resumeBg from "../assets/Resume_bg.jpg";
-import template1 from "../assets/Template_1.jpg";
-import template2 from "../assets/Template_2.jpg";
+import {
+    resumeBg,
+    template1,
+    template2
+} from "../../public";
 
 const Home = () => {
 
