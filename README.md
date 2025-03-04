@@ -1,7 +1,8 @@
 
 # AI-Powered Resume Builder
 
-![Resume Builder](public/Resume_bg.jpg)
+<div style="margin: auto"> ![Resume Builder](public/Resume_bg.jpg)</div>
+
 
 ## 🚀 Overview
 The **AI-Powered Resume Builder** simplifies the process of creating professional resumes with AI-enhanced content suggestions. Users can fill out a form, preview different resume templates, and generate PDF/DOCX files—all in one seamless experience.
