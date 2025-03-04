@@ -1,7 +1,7 @@
 
 # AI-Powered Resume Builder
 
-<div style="margin: auto"> ![Resume Builder](public/Resume_bg.jpg)</div>
+![Resume Builder](public/Resume_bg.jpg)
 
 
 ## 🚀 Overview
